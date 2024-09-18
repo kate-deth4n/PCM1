@@ -64,7 +64,7 @@ def read ():
                 if found == False:
                     print("Data doesn't match!")
                     
-        elif option == 2: 
+        elif option == 3: 
             return
         
         else:
